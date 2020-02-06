@@ -1,0 +1,7 @@
+misc/
+Debug/
+VisualGDBCache/
+*.old
+*.user
+.vs/
+CodeDB/
